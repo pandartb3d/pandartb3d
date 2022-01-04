@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @pandartb3d
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in 3d-art
+- 🌱 I’m currently learning python, gdscript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pandartb3d/pandartb3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me https://pandartb3d.github.io/
